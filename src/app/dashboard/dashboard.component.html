@@ -1,0 +1,43 @@
+<mat-card>
+    <h1>Course Availability Dashboard</h1>
+    <table mat-table [dataSource]="courses" class="mat-elevation-z8">
+  
+      <!-- Prüffungsfach Column -->
+      <ng-container matColumnDef="pruefungsfach">
+        <th mat-header-cell *matHeaderCellDef> Prüfungsfach </th>
+        <td mat-cell *matCellDef="let course"> {{ course.pruefungsfach }} </td>
+      </ng-container>
+  
+      <!-- Modul Column -->
+      <ng-container matColumnDef="modul">
+        <th mat-header-cell *matHeaderCellDef> Modul </th>
+        <td mat-cell *matCellDef="let course"> {{ course.modul }} </td>
+      </ng-container>
+  
+      <!-- Title Column -->
+      <ng-container matColumnDef="title">
+        <th mat-header-cell *matHeaderCellDef> Title </th>
+        <td mat-cell *matCellDef="let course"> {{ course.title }} </td>
+      </ng-container>
+  
+      <!-- Semesters Columns -->
+      @for (semester of semesters; track semester.id) {
+        <ng-container matColumnDef="{{ semester.name }}">
+          <th mat-header-cell *matHeaderCellDef> {{ semester.name }} </th>
+          <td mat-cell *matCellDef="let course">
+            @if (course.semesters[semester.name]) {
+              <mat-icon>check_circle</mat-icon>
+            } @else {
+              <mat-icon class="cancel">cancel</mat-icon>
+            }
+          </td>
+        </ng-container>
+      }
+  
+      <!-- Header and Row Declarations -->
+      <tr mat-header-row *matHeaderRowDef="displayedColumns; sticky: true"></tr>
+      <tr mat-row *matRowDef="let row; columns: displayedColumns;"></tr>
+  
+    </table>
+  </mat-card>
+  

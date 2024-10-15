@@ -1,0 +1,14 @@
+table {
+    width: 100%;
+  }
+  mat-card {
+    margin: 20px;
+    padding: 20px;
+  }
+  mat-icon {
+    color: green;
+  }
+  mat-icon.cancel {
+    color: red;
+  }
+  

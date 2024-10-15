@@ -1,0 +1,257 @@
+Prüfungsfach,Modul,Titel,2021S,2021W,2022S,2022W,2023S,2023W,2024S,2024W
+Computersprachen und Programmierung,Computersprachen und Programmierung,SE Seminar aus Programmiersprachen,1,0,1,0,1,0,1,0
+Computersprachen und Programmierung,Computersprachen und Programmierung,SE Seminar aus Übersetzerbau,0,1,0,1,0,1,0,1
+Computersprachen und Programmierung,Computersprachen und Programmierung,VO Codegeneratoren,0,1,0,1,0,1,0,1
+Computersprachen und Programmierung,Computersprachen und Programmierung,VO Typsysteme,0,1,0,1,0,1,0,1
+Computersprachen und Programmierung,Computersprachen und Programmierung,VU Advanced Multiprocessor Programming,0,0,1,0,1,0,0,1
+Computersprachen und Programmierung,Computersprachen und Programmierung,VU Advanced Object-Oriented Programming,0,0,1,0,1,0,1,0
+Computersprachen und Programmierung,Computersprachen und Programmierung,VU Analyse und Verifikation,1,0,1,0,1,0,1,0
+Computersprachen und Programmierung,Computersprachen und Programmierung,VU Dynamic Compilation,1,0,1,0,1,0,1,0
+Computersprachen und Programmierung,Computersprachen und Programmierung,VU Effiziente Programme,0,1,0,1,0,1,0,1
+Computersprachen und Programmierung,Computersprachen und Programmierung,VU Fortgeschrittene funktionale Programmierung,1,0,1,0,1,0,1,0
+Computersprachen und Programmierung,Computersprachen und Programmierung,VU Fortgeschrittene logische Programmierung,1,0,1,0,0,0,1,0
+Computersprachen und Programmierung,Computersprachen und Programmierung,VU Fortgeschrittene objektorientierte Programmierung,1,0,0,0,0,0,0,0
+Computersprachen und Programmierung,Computersprachen und Programmierung,VU GPU Architectures and Computing,1,0,1,0,1,0,1,0
+Computersprachen und Programmierung,Computersprachen und Programmierung,VU High Performance Computing,0,1,0,1,0,1,1,0
+Computersprachen und Programmierung,Computersprachen und Programmierung,VU Mobile Robotik,1,0,1,0,1,0,0,1
+Computersprachen und Programmierung,Computersprachen und Programmierung,VU Optimierende Übersetzer,0,1,0,1,0,1,0,1
+Computersprachen und Programmierung,Computersprachen und Programmierung,VU Parallele und Echtzeitprogrammierung,1,0,1,0,1,0,0,1
+Computersprachen und Programmierung,Computersprachen und Programmierung,VU Probabilistic Programming and AI,0,0,0,0,0,1,0,1
+Computersprachen und Programmierung,Computersprachen und Programmierung,VU Programmiersprachen,1,0,1,0,1,0,1,0
+Computersprachen und Programmierung,Computersprachen und Programmierung,VU Programming Principles of Mobile Robotics,1,1,0,1,0,1,0,1
+Computersprachen und Programmierung,Computersprachen und Programmierung,VU Programming Principles of Mobile Robotics II,0,0,1,0,0,0,0,0
+Computersprachen und Programmierung,Computersprachen und Programmierung,VU Semantik von Programmiersprachen,1,0,1,0,1,0,1,0
+Computersprachen und Programmierung,Computersprachen und Programmierung,VU Stackbasierte Sprachen,0,1,0,1,0,1,0,1
+Computersprachen und Programmierung,Computersprachen und Programmierung,VU Weiterführende Multiprocessor Programmierung,1,0,0,0,0,0,0,0
+Computersprachen und Programmierung,Computersprachen und Programmierung,VU Übersetzer für Parallele Systeme,0,0,0,1,0,0,0,0
+Computersprachen und Programmierung,Projekt aus Software Engineering & Internet Computing,PR Project in Computer Science 1,1,1,1,1,1,1,1,1
+Computersprachen und Programmierung,Projekt aus Software Engineering & Internet Computing,PR Project in Computer Science 2,1,1,1,1,1,1,1,1
+Diplomarbeit,,SE Seminar für Diplomand_innen,1,1,1,1,1,1,1,1
+Distributed Systems,Distributed Systems and Networking,SE Seminar in Distributed Systems,1,1,1,1,1,1,1,1
+Distributed Systems,Distributed Systems and Networking,UE Network Engineering,0,1,0,1,0,0,1,1
+Distributed Systems,Distributed Systems and Networking,VO Network Engineering,0,1,0,1,0,0,1,1
+Distributed Systems,Distributed Systems and Networking,VO Pervasive and Mobile Computing,1,0,1,0,1,0,1,0
+Distributed Systems,Distributed Systems and Networking,VU Advanced Distributed Systems,0,0,0,0,0,0,0,0
+Distributed Systems,Distributed Systems and Networking,VU Computer Networks,1,0,1,0,1,0,1,0
+Distributed Systems,Distributed Systems and Networking,VU Distributed Systems Engineering,1,0,1,0,0,0,1,0
+Distributed Systems,Distributed Systems and Networking,VU Hands-On Cloud Native,0,0,0,0,0,0,1,0
+Distributed Systems,Distributed Systems and Networking,VU Hybrid Classic-Quantum Systems,0,0,0,0,0,1,0,1
+Distributed Systems,Distributed Systems and Networking,VU Internet of Things for Smart Systems,0,0,0,0,0,0,0,0
+Distributed Systems,Distributed Systems and Networking,VU Large-scale Distributed Computing,0,0,0,0,0,0,0,0
+Distributed Systems,Distributed Systems and Networking,VU Mobile Network Services and Applications,0,1,1,1,0,0,0,0
+Distributed Systems,Distributed Systems and Networking,VU Peer-to-Peer Systems,0,0,0,0,0,0,0,0
+Distributed Systems,Distributed Systems and Networking,VU Serverless Computing,0,0,0,0,0,1,0,1
+Distributed Systems,Distributed Systems and Networking,VU Service Level Agreements,0,0,0,0,0,0,0,0
+Distributed Systems,Distributed Systems and Networking,VU Software Architecture,0,0,0,0,0,0,0,0
+Distributed Systems,Distributed Systems and Networking,VU Software in Kommunikationsnetzen,0,0,0,0,0,0,0,0
+Distributed Systems,Distributed Systems and Networking,VU Verteiltes Programmieren mit Space Based Computing Middleware,0,0,0,0,0,0,0,0
+Distributed Systems,Distributed Systems and Networking,VU Web Application Engineering and Content Management,1,1,1,1,0,1,0,1
+Distributed Systems,Distributed Systems and Networking,VU Wireless in Automation,1,0,1,0,1,0,1,0
+Distributed Systems,Internet Computing and Distributed Systems Technologies,VU Advanced Internet Computing,0,1,0,1,0,1,0,1
+Distributed Systems,Internet Computing and Distributed Systems Technologies,VU Distributed Systems Technologies,1,0,1,0,1,0,1,0
+Distributed Systems,Projekt aus Software Engineering & Internet Computing,PR Project in Computer Science 1,0,0,0,0,0,1,1,1
+Distributed Systems,Projekt aus Software Engineering & Internet Computing,PR Project in Computer Science 2,0,0,0,0,0,1,1,1
+Fachübergreifende Qualifikationen und freie Wahl,Fachübergreifende Qualifikationen,EX Exkursion,0,0,0,0,0,0,0,0
+Fachübergreifende Qualifikationen und freie Wahl,Fachübergreifende Qualifikationen,PV Privatissimum aus Fachdidaktik Informatik,0,0,0,0,0,0,0,0
+Fachübergreifende Qualifikationen und freie Wahl,Fachübergreifende Qualifikationen,SE Coaching als Führungsinstrument 2,1,0,0,0,0,0,0,0
+Fachübergreifende Qualifikationen und freie Wahl,Fachübergreifende Qualifikationen,SE Critical Algorithm Studies,1,0,0,0,0,0,0,0
+Fachübergreifende Qualifikationen und freie Wahl,Fachübergreifende Qualifikationen,SE Didaktik in der Informatik,1,0,0,0,0,0,0,0
+Fachübergreifende Qualifikationen und freie Wahl,Fachübergreifende Qualifikationen,SE Folgenabschätzung von Informationstechnologien,0,0,0,0,0,0,0,0
+Fachübergreifende Qualifikationen und freie Wahl,Fachübergreifende Qualifikationen,SE Kommunikation und Rhetorik 2,0,0,0,0,0,0,0,0
+Fachübergreifende Qualifikationen und freie Wahl,Fachübergreifende Qualifikationen,SE Privatissimum aus Fachdidaktik Informatik,1,0,0,0,0,0,0,0
+Fachübergreifende Qualifikationen und freie Wahl,Fachübergreifende Qualifikationen,SE Rechtsinformationsrecherche im Internet,0,0,0,0,0,0,0,0
+Fachübergreifende Qualifikationen und freie Wahl,Fachübergreifende Qualifikationen,SE Scientific Presentation and Communication,0,0,0,0,0,0,0,0
+Fachübergreifende Qualifikationen und freie Wahl,Fachübergreifende Qualifikationen,SE Wissenschaftliche Methodik,1,0,0,0,0,0,0,0
+Fachübergreifende Qualifikationen und freie Wahl,Fachübergreifende Qualifikationen,Transferable Skills,0,0,0,0,0,0,0,0
+Fachübergreifende Qualifikationen und freie Wahl,Fachübergreifende Qualifikationen,VO EDV-Vertragsrecht,1,0,0,0,0,0,0,0
+Fachübergreifende Qualifikationen und freie Wahl,Fachübergreifende Qualifikationen,VO Einführung in Technik und Gesellschaft,0,0,0,0,0,0,0,0
+Fachübergreifende Qualifikationen und freie Wahl,Fachübergreifende Qualifikationen,VO Theorie und Praxis der Gruppenarbeit,0,0,0,0,0,0,0,0
+Fachübergreifende Qualifikationen und freie Wahl,Fachübergreifende Qualifikationen,VU Forschungsmethoden,1,0,0,0,0,0,0,0
+Fachübergreifende Qualifikationen und freie Wahl,Fachübergreifende Qualifikationen,VU Kommunikation und Moderation,1,0,0,0,0,0,0,0
+Fachübergreifende Qualifikationen und freie Wahl,Fachübergreifende Qualifikationen,VU Kooperatives Arbeiten,0,0,0,0,0,0,0,0
+Fachübergreifende Qualifikationen und freie Wahl,Fachübergreifende Qualifikationen,VU Präsentation und Moderation,0,0,0,0,0,0,0,0
+Fachübergreifende Qualifikationen und freie Wahl,Fachübergreifende Qualifikationen,VU Softskills für TechnikerInnen,1,0,0,0,0,0,0,0
+Fachübergreifende Qualifikationen und freie Wahl,Fachübergreifende Qualifikationen,VU Techniksoziologie und Technikpsychologie,1,0,0,0,0,0,0,0
+Fachübergreifende Qualifikationen und freie Wahl,Freie Wahl,Katalog Freie Wahlfächer - Informatik,0,0,0,0,0,0,0,0
+Formale Methoden,Algorithmik,A,0,0,0,0,0,0,0,0
+Formale Methoden,Algorithmik,E,0,0,0,0,0,0,0,0
+Formale Methoden,Algorithmik,SE Seminar aus Algorithmik,1,1,1,1,1,1,1,1
+Formale Methoden,Algorithmik,UE Algorithmic Geometry,0,0,0,0,0,0,0,0
+Formale Methoden,Algorithmik,UE Analysis of Algorithms,0,0,0,0,0,0,0,0
+Formale Methoden,Algorithmik,VO Analysis of Algorithms,0,0,0,0,0,0,0,0
+Formale Methoden,Algorithmik,VO Inductive Rule Learning,0,0,0,0,0,0,0,0
+Formale Methoden,Algorithmik,VU Advanced Algorithms,0,0,0,0,0,0,0,0
+Formale Methoden,Algorithmik,VU Advanced Research in Algorithmics,0,0,0,0,0,0,0,1
+Formale Methoden,Algorithmik,VU Algorithmic Geometry,0,1,0,1,0,1,0,1
+Formale Methoden,Algorithmik,VU Algorithmic Meta-Theorems Algorithmische Meta-Theoreme,0,1,0,1,0,1,0,1
+Formale Methoden,Algorithmik,VU Algorithmic Social Choice,1,0,1,0,1,0,1,0
+Formale Methoden,Algorithmik,VU Algorithmics,0,1,0,1,0,1,0,1
+Formale Methoden,Algorithmik,VU Algorithms Design,0,0,0,0,0,0,0,0
+Formale Methoden,Algorithmik,VU Algorithms in Graph Theory,1,0,1,0,0,1,0,1
+Formale Methoden,Algorithmik,VU Approximation Algorithms,0,1,0,0,0,1,0,1
+Formale Methoden,Algorithmik,VU Datenbanksysteme Vertiefung,0,0,0,0,0,0,1,0
+Formale Methoden,Algorithmik,VU Deep Learning for Natural Language Processing,0,0,0,0,0,0,1,1
+Formale Methoden,Algorithmik,VU Dependable Distributed Systems,0,0,0,0,0,0,0,0
+Formale Methoden,Algorithmik,VU Discrete Reasoning Methods,0,0,0,0,0,0,0,0
+Formale Methoden,Algorithmik,VU Distributed Algorithms,1,0,1,0,1,0,1,0
+Formale Methoden,Algorithmik,VU Efficient Algorithms,0,0,0,0,0,0,0,0
+Formale Methoden,Algorithmik,VU Fixed-Parameter Algorithms and Complexity,0,1,0,1,0,1,0,1
+Formale Methoden,Algorithmik,VU Graph Drawing Algorithms,1,0,1,0,1,0,1,0
+Formale Methoden,Algorithmik,VU Heuristic Optimization Techniques,0,1,0,1,0,1,0,1
+Formale Methoden,Algorithmik,VU KI Ethik,0,0,0,0,0,0,0,1
+Formale Methoden,Algorithmik,VU Machine Learning,1,1,1,1,1,1,1,1
+Formale Methoden,Algorithmik,VU Mathematical Programming,1,0,1,0,1,0,1,0
+Formale Methoden,Algorithmik,VU Modeling and Solving Constrained Optimization Problems,1,0,1,0,0,0,1,0
+Formale Methoden,Algorithmik,VU Networks: Design and Analysis,0,0,0,0,0,0,0,0
+Formale Methoden,Algorithmik,VU Optimization in Transport and Logistics,0,0,0,0,0,0,1,0
+Formale Methoden,Algorithmik,VU Parallel Algorithms,0,0,0,0,0,0,0,0
+Formale Methoden,Algorithmik,VU Parallele Algorithmen,0,1,0,1,0,0,0,1
+Formale Methoden,Algorithmik,VU Problem Solving and Search in Artificial Intelligence,1,0,1,0,1,0,1,0
+Formale Methoden,Algorithmik,VU Problems in Distributed Computing,0,1,0,1,0,1,0,1
+Formale Methoden,Algorithmik,VU Randomized Algorithms,0,0,0,0,0,1,0,1
+Formale Methoden,Algorithmik,VU Real-Time Scheduling,1,0,1,0,1,0,1,0
+Formale Methoden,Algorithmik,VU Rigorous Systems Engineering,0,0,0,0,0,0,0,0
+Formale Methoden,Algorithmik,"VU Sicherheit, Privacy und Erklärbarkeit in Maschinellem Lernen",1,0,1,0,1,0,1,0
+Formale Methoden,Algorithmik,VU Structural Decompositions and Algorithms,1,0,1,0,1,0,1,0
+Formale Methoden,Algorithmik,VU Theoretical Foundations and Research Topics in Machine Learning,0,0,1,1,1,1,1,1
+Formale Methoden,Formal Methods in Computer Science,UE Formal Methods in Computer Science,0,0,0,0,0,0,0,0
+Formale Methoden,Formal Methods in Computer Science,UE Formale Methoden der Informatik,0,1,0,1,0,1,0,1
+Formale Methoden,Formal Methods in Computer Science,VU Formal Methods in Computer Science,1,1,1,1,1,1,0,1
+Formale Methoden,Formale Methoden und Theoretische Informatik,SE Seminar in Formal Methods,1,1,1,1,1,1,1,1
+Formale Methoden,Formale Methoden und Theoretische Informatik,SE Seminar in Logic,1,1,1,1,1,1,1,1
+Formale Methoden,Formale Methoden und Theoretische Informatik,SE Seminar in Theoretical Computer Science,1,1,1,1,1,1,1,1
+Formale Methoden,Formale Methoden und Theoretische Informatik,UE Computer-Aided Verification,1,0,0,1,1,0,1,0
+Formale Methoden,Formale Methoden und Theoretische Informatik,UE Formale Methoden der Informatik,0,0,0,0,0,0,0,0
+Formale Methoden,Formale Methoden und Theoretische Informatik,VU Advanced Topics in Formal Language Theory,0,0,0,0,0,0,0,0
+Formale Methoden,Formale Methoden und Theoretische Informatik,VU Advanced Topics in Theoretical Computer Science,0,0,0,0,0,0,0,0
+Formale Methoden,Formale Methoden und Theoretische Informatik,VU Automated Deduction,1,0,1,0,1,0,0,0
+Formale Methoden,Formale Methoden und Theoretische Informatik,VU Automated Reasoning and Program Verification,0,0,0,0,0,0,0,0
+Formale Methoden,Formale Methoden und Theoretische Informatik,VU Coalgebra in Computer Science,0,0,0,0,0,0,0,0
+Formale Methoden,Formale Methoden und Theoretische Informatik,VU Complexity Theory,0,1,0,1,0,1,0,1
+Formale Methoden,Formale Methoden und Theoretische Informatik,VU Computability Theory,1,0,1,0,0,0,0,0
+Formale Methoden,Formale Methoden und Theoretische Informatik,VU Computational Equational Logic,0,0,0,0,0,0,0,0
+Formale Methoden,Formale Methoden und Theoretische Informatik,VU Computer-Aided Verification,1,0,0,1,1,0,1,0
+Formale Methoden,Formale Methoden und Theoretische Informatik,VU Deductive Verification of Software,0,0,0,0,0,0,0,0
+Formale Methoden,Formale Methoden und Theoretische Informatik,VU Epistemic Logic and Communication,1,0,0,0,0,0,0,0
+Formale Methoden,Formale Methoden und Theoretische Informatik,VU Formal Language Theory,0,1,0,1,0,0,0,1
+Formale Methoden,Formale Methoden und Theoretische Informatik,VU Formal Methods for Concurrent and Distributed Systems,0,0,0,0,0,0,0,0
+Formale Methoden,Formale Methoden und Theoretische Informatik,VU Foundations of Information Integration,0,0,0,0,0,0,0,0
+Formale Methoden,Formale Methoden und Theoretische Informatik,VU Introduction to Type Theories,0,0,0,0,1,0,0,0
+Formale Methoden,Formale Methoden und Theoretische Informatik,VU Membrane Computing,0,1,0,1,0,0,0,0
+Formale Methoden,Formale Methoden und Theoretische Informatik,VU Molecular Computing,1,0,1,0,1,0,0,0
+Formale Methoden,Formale Methoden und Theoretische Informatik,VU Practical Applications of Answer Set Programming,0,0,1,0,0,0,0,0
+Formale Methoden,Formale Methoden und Theoretische Informatik,VU Preferences in Artificial Intelligence,1,0,0,0,1,0,1,0
+Formale Methoden,Formale Methoden und Theoretische Informatik,VU Programmanalyse,0,1,0,1,0,1,0,1
+Formale Methoden,Formale Methoden und Theoretische Informatik,VU Quantum Computing,0,1,0,1,0,1,0,1
+Formale Methoden,Formale Methoden und Theoretische Informatik,VU Rigorous Systems Engineering,0,0,0,0,0,0,0,0
+Formale Methoden,Formale Methoden und Theoretische Informatik,VU SAT Solving and Extensions,1,0,1,0,1,0,1,0
+Formale Methoden,Formale Methoden und Theoretische Informatik,VU Software Model Checking,0,1,0,0,0,0,0,0
+Formale Methoden,Formale Methoden und Theoretische Informatik,VU Term Rewriting,1,0,0,0,1,0,0,0
+Formale Methoden,Formale Methoden und Theoretische Informatik,VU Unification Theory,0,0,0,0,0,0,0,0
+Formale Methoden,Projekt aus Software Engineering & Internet Computing,PR Project in Computer Science 1,0,0,0,0,0,1,1,1
+Formale Methoden,Projekt aus Software Engineering & Internet Computing,PR Project in Computer Science 2,0,0,0,0,0,1,1,1
+Freie Wahlfächer und Transferable Skills,Freie Wahlfächer und Transferable Skills,Katalog Freie Wahlfächer - Informatik,0,0,0,0,0,0,0,0
+Freie Wahlfächer und Transferable Skills,Freie Wahlfächer und Transferable Skills,PR IT-Projekte für Jugendliche,0,0,0,0,0,1,1,1
+Freie Wahlfächer und Transferable Skills,Freie Wahlfächer und Transferable Skills,SE Coaching als Führungsinstrument 1,0,0,0,0,0,1,0,1
+Freie Wahlfächer und Transferable Skills,Freie Wahlfächer und Transferable Skills,SE Coaching als Führungsinstrument 2,0,0,1,0,1,0,0,1
+Freie Wahlfächer und Transferable Skills,Freie Wahlfächer und Transferable Skills,SE Critical Algorithm Studies,0,0,0,0,0,0,0,0
+Freie Wahlfächer und Transferable Skills,Freie Wahlfächer und Transferable Skills,SE Didaktik in der Informatik,0,1,1,1,1,1,1,1
+Freie Wahlfächer und Transferable Skills,Freie Wahlfächer und Transferable Skills,SE Folgenabschätzung von Informationstechnologien,0,0,0,0,0,0,0,0
+Freie Wahlfächer und Transferable Skills,Freie Wahlfächer und Transferable Skills,SE Gruppendynamik,0,0,0,0,0,0,1,0
+Freie Wahlfächer und Transferable Skills,Freie Wahlfächer und Transferable Skills,SE Kommunikation und Rhetorik,0,0,0,0,0,1,1,1
+Freie Wahlfächer und Transferable Skills,Freie Wahlfächer und Transferable Skills,SE Kommunikation und Rhetorik 2,0,0,0,0,0,1,0,1
+Freie Wahlfächer und Transferable Skills,Freie Wahlfächer und Transferable Skills,SE Kommunikationstechnik,0,0,1,1,1,1,1,1
+Freie Wahlfächer und Transferable Skills,Freie Wahlfächer und Transferable Skills,SE Privatissimum aus Fachdidaktik Informatik,0,0,1,0,1,0,0,0
+Freie Wahlfächer und Transferable Skills,Freie Wahlfächer und Transferable Skills,SE Scientific Presentation and Communication,0,0,0,0,1,0,1,0
+Freie Wahlfächer und Transferable Skills,Freie Wahlfächer und Transferable Skills,SE VWA Mentoring I,0,0,0,0,0,0,1,0
+Freie Wahlfächer und Transferable Skills,Freie Wahlfächer und Transferable Skills,SE VWA Mentoring II,0,0,0,0,0,0,0,1
+Freie Wahlfächer und Transferable Skills,Freie Wahlfächer und Transferable Skills,SE Wissenschaftliche Methodik,0,0,0,0,0,0,0,0
+Freie Wahlfächer und Transferable Skills,Freie Wahlfächer und Transferable Skills,UE IT Projekte für Jugendliche,0,0,0,0,0,1,1,1
+Freie Wahlfächer und Transferable Skills,Freie Wahlfächer und Transferable Skills,"UE Präsentation, Moderation und Mediation",0,0,0,0,0,0,0,0
+Freie Wahlfächer und Transferable Skills,Freie Wahlfächer und Transferable Skills,VO EDV-Vertragsrecht,0,1,1,1,0,1,1,1
+Freie Wahlfächer und Transferable Skills,Freie Wahlfächer und Transferable Skills,VO Einführung in Technik und Gesellschaft,0,0,0,0,0,0,0,0
+Freie Wahlfächer und Transferable Skills,Freie Wahlfächer und Transferable Skills,VO Einführung in die Wissenschaftstheorie I,0,0,0,0,0,0,0,0
+Freie Wahlfächer und Transferable Skills,Freie Wahlfächer und Transferable Skills,VO Frauen in Naturwissenschaft und Technik,0,0,0,0,0,0,0,0
+Freie Wahlfächer und Transferable Skills,Freie Wahlfächer und Transferable Skills,"VO Präsentation, Moderation und Mediation",0,0,0,0,0,0,0,0
+Freie Wahlfächer und Transferable Skills,Freie Wahlfächer und Transferable Skills,VO Theorie und Praxis der Gruppenarbeit,0,0,0,0,0,0,0,0
+Freie Wahlfächer und Transferable Skills,Freie Wahlfächer und Transferable Skills,VO Zwischen Karriere und Barriere,0,0,0,0,0,1,0,1
+Freie Wahlfächer und Transferable Skills,Freie Wahlfächer und Transferable Skills,VU Forschungsmethoden,0,1,1,1,1,1,1,1
+Freie Wahlfächer und Transferable Skills,Freie Wahlfächer und Transferable Skills,VU Kommunikation und Moderation,0,1,1,0,0,0,0,0
+Freie Wahlfächer und Transferable Skills,Freie Wahlfächer und Transferable Skills,VU Kooperatives Arbeiten,0,0,0,0,0,0,0,0
+Freie Wahlfächer und Transferable Skills,Freie Wahlfächer und Transferable Skills,VU Präsentation und Moderation,0,1,0,1,0,1,0,1
+Freie Wahlfächer und Transferable Skills,Freie Wahlfächer und Transferable Skills,VU Präsentations- und Verhandlungstechnik,0,0,0,0,0,1,1,1
+Freie Wahlfächer und Transferable Skills,Freie Wahlfächer und Transferable Skills,"VU Rhetorik, Körpersprache, Argumentationstraining",0,0,0,0,0,1,1,1
+Freie Wahlfächer und Transferable Skills,Freie Wahlfächer und Transferable Skills,VU Softskills für TechnikerInnen,0,1,1,1,1,1,1,1
+Freie Wahlfächer und Transferable Skills,Freie Wahlfächer und Transferable Skills,VU Techniksoziologie und Technikpsychologie,0,0,1,0,0,0,0,0
+Freie Wahlfächer und Transferable Skills,Freie Wahlfächer und Transferable Skills,Zentraler Wahlfachkatalog der TU Wien für Transferable Skills,0,0,0,0,0,0,0,0
+Information Systems,Advanced Security,SE Seminar aus Security,1,1,1,1,1,1,1,1
+Information Systems,Advanced Security,UE Data Stewardship,1,0,1,0,1,0,1,0
+Information Systems,Advanced Security,VO Data Stewardship,1,0,1,0,1,0,1,0
+Information Systems,Advanced Security,VU Advanced Cryptography,1,0,0,0,1,0,0,0
+Information Systems,Advanced Security,VU Advanced Security for Systems Engineering,0,1,0,1,0,0,0,0
+Information Systems,Advanced Security,VU Crypto Asset Analytics,0,0,1,0,1,0,1,0
+Information Systems,Advanced Security,VU Cryptocurrencies,0,1,0,1,0,1,0,1
+Information Systems,Advanced Security,VU Digital Forensics,0,1,0,1,0,1,0,0
+Information Systems,Advanced Security,VU Formal Methods for Security and Privacy,1,0,1,0,1,0,1,0
+Information Systems,Advanced Security,VU IT Security in Large IT Infrastructures,1,0,1,0,0,0,0,0
+Information Systems,Advanced Security,VU Kryptographie,0,0,0,0,0,0,0,0
+Information Systems,Advanced Security,VU Network Security,1,0,1,0,1,0,1,0
+Information Systems,Advanced Security,VU Network Security - Advanced Topics,0,1,0,1,0,1,0,1
+Information Systems,Advanced Security,VU Network Security Advanced Topics,0,0,0,0,0,0,0,0
+Information Systems,Advanced Security,VU Smart Contracts,1,0,1,0,1,0,1,0
+Information Systems,Advanced Security,VU Symmetric Cryptography,0,0,0,0,0,0,0,0
+Information Systems,Advanced Security,VU Systems and Applications Security,0,1,0,1,0,0,1,0
+Information Systems,Informationssysteme,SE Seminar aus Datenbanken,1,1,1,1,1,1,1,1
+Information Systems,Informationssysteme,UE Knowledge Management,0,1,0,0,0,0,0,0
+Information Systems,Informationssysteme,VO Deduktive Datenbanken,0,1,0,0,0,1,0,0
+Information Systems,Informationssysteme,VO GIS Theorie II,0,0,0,0,0,0,0,0
+Information Systems,Informationssysteme,VO Knowledge Management,0,1,0,0,0,0,0,0
+Information Systems,Informationssysteme,VU Advanced Information Retrieval,1,0,1,0,1,0,1,0
+Information Systems,Informationssysteme,VU Applied Web Data Extraction and Integration,0,0,0,0,0,0,0,0
+Information Systems,Informationssysteme,VU Business Intelligence,0,1,0,1,0,1,0,1
+Information Systems,Informationssysteme,VU Datenbanksysteme Vertiefung,1,0,1,0,1,0,1,0
+Information Systems,Informationssysteme,VU Datenbanktheorie,0,1,0,1,0,1,0,1
+Information Systems,Informationssysteme,VU Einführung in Semantic Systems,0,1,0,1,0,1,0,1
+Information Systems,Informationssysteme,VU GIS Theorie I,0,0,0,0,0,0,0,0
+Information Systems,Informationssysteme,VU Grundlagen des Information Retrieval,0,1,0,1,0,1,0,1
+Information Systems,Informationssysteme,VU Information Design,0,0,0,0,0,0,0,0
+Information Systems,Informationssysteme,VU Knowledge Graphs,1,0,1,0,1,0,1,0
+Information Systems,Informationssysteme,VU Media and Brain 1,1,0,1,0,1,0,1,0
+Information Systems,Informationssysteme,VU Media and Brain 2,1,0,1,0,1,0,1,0
+Information Systems,Informationssysteme,VU Selbstorganisierende Systeme,0,1,0,1,0,1,0,1
+Information Systems,Informationssysteme,VU Semi-Automatic Information and Knowledge Systems,1,0,1,0,1,0,1,0
+Information Systems,Informationssysteme,VU Similarity Modeling 1,0,1,0,1,0,1,0,1
+Information Systems,Informationssysteme,VU Similarity Modeling 2,0,1,0,1,0,1,0,1
+Information Systems,Informationssysteme,VU Web Data Extracion and Integration,0,0,0,0,0,0,0,0
+Information Systems,Informationssysteme,VU Workflow Modeling and Process Management,1,0,1,0,0,0,0,0
+Information Systems,Informationssysteme,VU e-Business Modeling,0,0,0,0,0,0,0,0
+Information Systems,Projekt aus Software Engineering & Internet Computing,PR Project in Computer Science 1,0,0,0,0,0,1,1,1
+Information Systems,Projekt aus Software Engineering & Internet Computing,PR Project in Computer Science 2,0,0,0,0,0,1,1,1
+Software Engineering,Advanced Software Engineering,PR Advanced Software Engineering,1,1,1,1,1,1,1,1
+Software Engineering,Advanced Software Engineering,VO Advanced Software Engineering,0,1,0,1,0,0,0,0
+Software Engineering,Advanced Software Engineering,VU Advanced Software Engineering,0,0,0,0,0,1,0,1
+Software Engineering,Projekt aus Software Engineering & Internet Computing,PR Project in Computer Science 1,0,0,0,0,0,1,1,1
+Software Engineering,Projekt aus Software Engineering & Internet Computing,PR Project in Computer Science 2,0,0,0,0,0,1,1,1
+Software Engineering,Software Engineering,SE Advanced Model Engineering,1,0,1,0,1,0,1,0
+Software Engineering,Software Engineering,SE Seminar in Software Engineering,1,1,0,1,1,1,1,1
+Software Engineering,Software Engineering,VU Advanced Model Engineering,1,0,1,0,1,0,1,0
+Software Engineering,Software Engineering,VU Advanced Project Management,1,0,1,0,0,0,0,0
+Software Engineering,Software Engineering,VU Configuration Management,1,0,1,0,0,0,0,0
+Software Engineering,Software Engineering,VU Digitale Nachhaltigkeit,0,0,0,0,1,0,0,0
+Software Engineering,Software Engineering,VU Management of Software Projects,0,0,0,0,0,0,0,1
+Software Engineering,Software Engineering,VU Management von Software Projekten,0,1,0,1,0,1,0,0
+Software Engineering,Software Engineering,VU Methods of Empirical Software Engineering,0,0,0,0,0,0,0,0
+Software Engineering,Software Engineering,VU Model Engineering,0,1,0,1,0,1,0,1
+Software Engineering,Software Engineering,VU Requirements Engineering and Specification,0,1,0,1,0,1,0,1
+Software Engineering,Software Engineering,VU Risk Management,1,0,1,0,0,0,0,0
+Software Engineering,Software Engineering,VU Software Maintenance and Evolution,1,0,1,0,0,0,0,0
+Software Engineering,Software Engineering,VU Software Quality Management,1,0,1,0,0,0,0,0
+Software Engineering,Software Engineering,VU Software Testing,1,1,1,1,1,0,1,0
+Software Engineering,Software Engineering,VU Value-Based Software Engineering,0,0,0,0,0,0,0,0
+Wirtschaft und Management,Wirtschaft und Management,VO Grundlagen der Makroökonomie,0,1,0,1,0,1,0,1
+Wirtschaft und Management,Wirtschaft und Management,VU Enterprise Resource Planning and Control,0,0,0,0,0,0,0,0
+Wirtschaft und Management,Wirtschaft und Management,VU Enterprise Risk Management - Basics,1,0,1,0,1,0,1,0
+Wirtschaft und Management,Wirtschaft und Management,VU Financial Management and Reporting,1,0,1,0,1,0,1,0
+Wirtschaft und Management,Wirtschaft und Management,VU IT-based Management,0,1,0,1,0,1,0,1
+Wirtschaft und Management,Wirtschaft und Management,VU Project and Enterprise Financing,1,0,1,0,1,0,1,0
+Wirtschaft und Management,Wirtschaft und Management,VU Risk Model Management,1,0,1,0,1,0,0,1
