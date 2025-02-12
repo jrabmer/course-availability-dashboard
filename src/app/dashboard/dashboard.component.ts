@@ -26,7 +26,7 @@ export interface Course {
   styleUrl: './dashboard.component.css'
 })
 export class DashboardComponent {
-  displayedColumns = ['title', '2021S', '2021W', '2022S', '2022W', '2023S', '2023W', '2024S', '2024W']
+  displayedColumns = ['title', '2021S', '2021W', '2022S', '2022W', '2023S', '2023W', '2024S', '2024W', '2025S']
   subjects: string[] = [];
   subjectModules = new Map<string, string[]>()
   moduleCourses = new Map<string, Course[]>()
@@ -41,6 +41,7 @@ export class DashboardComponent {
     { id: 6, name: '2023W' },
     { id: 7, name: '2024S' },
     { id: 8, name: '2024W' },
+    { id: 9, name: '2025S' },
   ]
 
   constructor(private csvService: CsvService) { }
